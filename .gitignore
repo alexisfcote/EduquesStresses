@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 dask-worker-space
 data
+data.pkl
