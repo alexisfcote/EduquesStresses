@@ -105,3 +105,7 @@ venv.bak/
 dask-worker-space
 data
 data.pkl
+
+
+img/
+
